@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 551
+slug  : the-graviton
+seal  : 5297cf188b9b98aa508be85a17690cf3f4c9a7ec88708cfe9f36d5ae171097c8
+prev  : 24d2464e454fe305e728920ce9eac4036504f20c4dd5c3852209bfcd8f325f19
+link  : 1d8f22f6cc5f35eab55a225e81311c17aa453cd2c5ac7d787451ffde9bd83b3a
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
